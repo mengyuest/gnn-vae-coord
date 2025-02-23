@@ -1,0 +1,4 @@
+bak/
+legacy/
+__pycache__/*
+.DS_Store
